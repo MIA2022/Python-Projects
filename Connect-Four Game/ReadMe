@@ -1,9 +1,11 @@
 Introduction:
+
 Mazes are a fun past-time, and can help people develop problem solving skills. 
 In computer science mazes are used as a way to solve optimization problems. 
 This is a program to find the quickest way out of a maze. 
 
 User Commands:
+
 1. Read maze from keyboard is used to read a maze from the keyboard. Following the guidelines for representation listed above, your program should start by entering the width and height, and then read the maze in one line at a time. Your solution should validate that the maze that is entered into the keyboard is the correct width and height.
 
 2. Read maze from file is used to read a maze from a file. The maze contained should follow the same guidelines for representation listed above except this time the contents will be contained in a file. This option should prompt the user for a file name and read the maze in from that file.
