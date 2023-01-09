@@ -1,1 +1,10 @@
+Introduction:
+
+Connect Four is a game where players try to get four of their pieces in a row.
+
+connect_four_test.py will contain tests for connect_four. 
+
+connect_four.py will contain a class ConnectFour. 
+
+interactive_connect_four.py will have a main that will execute the game and allow you to play. 
 
